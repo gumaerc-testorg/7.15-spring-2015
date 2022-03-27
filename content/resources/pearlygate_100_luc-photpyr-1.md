@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 49d523eb-e0bf-aea9-58bf-f53657e2b561
 resourcetype: Other
 title: pEarlyGate_100_Luc[PhotPyr].gb
 uid: 2db311fe-a1b8-4e83-2022-a275611dcc2d

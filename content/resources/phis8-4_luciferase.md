@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 49d523eb-e0bf-aea9-58bf-f53657e2b561
 resourcetype: Other
 title: pHIS8-4_Luciferase.gb
 uid: e69854a8-cf2e-01ba-efc7-a3844bcda3e7

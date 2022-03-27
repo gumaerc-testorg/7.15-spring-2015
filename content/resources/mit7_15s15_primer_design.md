@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: General Guidelines for Primer Design
 uid: b6d9befe-cddf-c6f5-1fc9-8157769dceaa

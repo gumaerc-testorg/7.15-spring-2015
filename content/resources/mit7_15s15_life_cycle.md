@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: C. elegans Life Cycle
 uid: fb5d61bd-3d78-77a5-19da-28e78c8ef8fd

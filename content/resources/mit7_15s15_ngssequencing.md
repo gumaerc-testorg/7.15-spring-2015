@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 016a606f-10ec-4388-a835-7761dc77fa3a
 resourcetype: Document
 title: Next Generation Sequencing
 uid: 5d318da9-ba1b-f8ff-3df4-fa9208c6620b

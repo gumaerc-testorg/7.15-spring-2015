@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: Resuspending PCR Primers
 uid: edbfe831-8f58-68e4-713a-99060e8f4429

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 49d523eb-e0bf-aea9-58bf-f53657e2b561
 resourcetype: Other
 title: pHIS8-4_GFP.gb
 uid: b8e38c28-8cb9-8ead-25ec-8f5ed5413ff8

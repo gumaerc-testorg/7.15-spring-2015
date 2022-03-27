@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: Synchronization of C. elegans
 uid: c4cb8b15-56ac-80b5-d2e3-599c65b5d1c4

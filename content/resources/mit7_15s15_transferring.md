@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: Transferring Worms Grown on NGM Plates
 uid: b83d85be-d485-7173-90c2-9ec683cb9b2a

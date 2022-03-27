@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 49d523eb-e0bf-aea9-58bf-f53657e2b561
 resourcetype: Document
 title: Inkscape Tips
 uid: 24070d0d-98a6-c9da-807a-6c317a41c01d

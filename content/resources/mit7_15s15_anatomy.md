@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
 resourcetype: Document
 title: C. elegans hermaphrodite and male
 uid: fc599e2e-b659-6b49-629d-e955f4f6a5ea
