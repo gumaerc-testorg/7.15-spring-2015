@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains protocols and descriptions of the laboratory experiments
+  for this course, as well as background information.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -14,40 +16,40 @@ The experiments described in these materials are potentially hazardous and requi
 Background
 ----------
 
-[C. Elegans Anatomy (PDF)]({{< baseurl >}}/resources/mit7_15s15_anatomy)
+{{% resource_link fc599e2e-b659-6b49-629d-e955f4f6a5ea "C. Elegans Anatomy (PDF)" %}}
 
-[C. Elegans Life Cycle (PDF)]({{< baseurl >}}/resources/mit7_15s15_life_cycle)
+{{% resource_link fb5d61bd-3d78-77a5-19da-28e78c8ef8fd "C. Elegans Life Cycle (PDF)" %}}
 
 Protocols
 ---------
 
-[Transferring Worms (PDF)]({{< baseurl >}}/resources/mit7_15s15_transferring)
+{{% resource_link b83d85be-d485-7173-90c2-9ec683cb9b2a "Transferring Worms (PDF)" %}}
 
-[RNAi Feeding Protocol (PDF)]({{< baseurl >}}/resources/mit7_15s15_rnai_feeding)
+{{% resource_link 08d9388d-7043-ea09-4297-b1b3bfb26821 "RNAi Feeding Protocol (PDF)" %}}
 
-[Worm Lysis for PCR (PDF)]({{< baseurl >}}/resources/mit7_15s15_wormlysis_forpcr)
+{{% resource_link ba66f03a-69fa-3977-56b1-c304d0c636d1 "Worm Lysis for PCR (PDF)" %}}
 
-[SNP Mapping Protocol (PDF)]({{< baseurl >}}/resources/mit7_15s15_snp_mapping)
+{{% resource_link 080f2cc9-2921-c45d-ded5-a3bcd56f0491 "SNP Mapping Protocol (PDF)" %}}
 
-[Agarose Gel Electrophoresis (PDF)]({{< baseurl >}}/resources/mit7_15s15_agarose)
+{{% resource_link 8cdeb852-1c76-bfd9-2e55-75959fbe15af "Agarose Gel Electrophoresis (PDF)" %}}
 
-[Synchronization of C. elegans (PDF)]({{< baseurl >}}/resources/mit7_15s15_synchronization)
+{{% resource_link c4cb8b15-56ac-80b5-d2e3-599c65b5d1c4 "Synchronization of C. elegans (PDF)" %}}
 
-[Chemotaxis Assay (PDF)]({{< baseurl >}}/resources/mit7_15s15_chemotaxis_assay)
+{{% resource_link 38c13421-2c53-6d7d-fd33-ab509430a09d "Chemotaxis Assay (PDF)" %}}
 
-[RNA Extraction (PDF)]({{< baseurl >}}/resources/mit7_15s15_rna_extraction)
+{{% resource_link c19d1258-b78e-bfb3-a922-da0485bcee27 "RNA Extraction (PDF)" %}}
 
-[cDNA Synthesis (PDF)]({{< baseurl >}}/resources/mit7_15s15_cdna_synthesis)
+{{% resource_link 055f32c7-0dd2-8ba4-17ba-993938aff3f0 "cDNA Synthesis (PDF)" %}}
 
-[Cleaning Contaminated Worm Stocks (PDF)]({{< baseurl >}}/resources/mit7_15s15_cleaning)
+{{% resource_link 9819abf8-1f69-9cee-ff20-5d01e3e4ff79 "Cleaning Contaminated Worm Stocks (PDF)" %}}
 
-Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)](https://www.neb.com/~/media/Catalog/All-Products/E13C03EA3FE14F12BEA0A0ECE9490093/Datacards%20or%20Manuals/ManualE5510.pdf), and the [Gibson Assembly cloning kit (NEB E5510S)](https://www.neb.com/products/e5510-gibson-assembly-cloning-kit#tabselect0), from New England Biolabs.
+Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the [Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)](https://www.neb.com/~/media/Catalog/All-Products/E13C03EA3FE14F12BEA0A0ECE9490093/Datacards%20or%20Manuals/ManualE5510.pdf), and the [Gibson Assembly cloning kit (NEB E5510S)](https://www.neb.com/products/e5510-gibson-assembly-cloning-kit#tabselect0), from New England Biolabs.
 
-[General Guidelines for Primer Design (PDF)]({{< baseurl >}}/resources/mit7_15s15_primer_design)
+{{% resource_link b6d9befe-cddf-c6f5-1fc9-8157769dceaa "General Guidelines for Primer Design (PDF)" %}}
 
-[Resuspending PCR Primers (PDF)]({{< baseurl >}}/resources/mit7_15s15_resuspending)
+{{% resource_link edbfe831-8f58-68e4-713a-99060e8f4429 "Resuspending PCR Primers (PDF)" %}}
 
-[Making Bacterial Glycerol Stocks (PDF)]({{< baseurl >}}/resources/mit7_15s15_makingbacterial)
+{{% resource_link daa5608c-dcd0-0970-51d3-ca20ffb860ca "Making Bacterial Glycerol Stocks (PDF)" %}}
 
 Real-time PCR: This protocol draws from the following sources: Fraga, D., Meulia, T., et al. [Unit 10.3 Real-Time PCR](http://dx.doi.org/10.1002/9780470089941.et1003s08). _Current Protocols, Essential Laboratory Techniques_. Wiley Online Library, 2014.
 

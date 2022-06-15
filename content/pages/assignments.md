@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains descriptions of the required assignments for the
+  course, including the lab notebook, oral presentations, and written assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ We will meet weekly to discuss research results (group meetings) or primary lite
 
 ### {{< anchor "Journal_club" >}}{{< /anchor >}}Journal Club
 
-Starting from week 3 (session 11), we will dedicate the first hour of one afternoon each week to a journal club. Each student will lead two journal clubs for a total of 8 journal clubs for the semester. For each journal club, there will be one main paper, which is to be discussed in detail, along with one or two additional papers, which contain background studies or extended research related to the main paper. The list of papers can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+Starting from week 3 (session 11), we will dedicate the first hour of one afternoon each week to a journal club. Each student will lead two journal clubs for a total of 8 journal clubs for the semester. For each journal club, there will be one main paper, which is to be discussed in detail, along with one or two additional papers, which contain background studies or extended research related to the main paper. The list of papers can be found in the {{% resource_link 8a5bc293-f955-ba1a-5be9-594169bfb640 "Readings" %}} section.
 
 Serving as the discussion leader of a journal club, you’re expected to prepare a powerpoint presentation to walk your audience through the paper.
 
