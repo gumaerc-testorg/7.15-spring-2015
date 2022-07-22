@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains links to resources on next generation sequencing.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 016a606f-10ec-4388-a835-7761dc77fa3a
 ---
@@ -13,4 +16,4 @@ Trapnell, C., A. Roberts, et al. "[Differential Gene and Transcript Expression A
 
 Wang, Z., M. Gerstein, et al. "[RNA-seq: A Revolutionary Tool for Transcriptomics."](http://dx.doi.org/10.1038/nrg2484) _Nature Reviews Genetics_ 10, no. 1 (2009): 57–63.
 
-[Next Generation Sequencing Slides (PDF)]({{< baseurl >}}/resources/mit7_15s15_ngssequencing)
+{{% resource_link 5d318da9-ba1b-f8ff-3df4-fa9208c6620b "Next Generation Sequencing Slides (PDF)" %}}
