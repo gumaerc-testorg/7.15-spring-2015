@@ -6,6 +6,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/b6d9befecddfc6f5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: General Guidelines for Primer Design
 uid: b6d9befe-cddf-c6f5-1fc9-8157769dceaa
 ---
 This resource contains information regarding general guidelines for primer design.
-

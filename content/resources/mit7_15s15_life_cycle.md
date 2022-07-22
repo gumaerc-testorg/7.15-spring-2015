@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/fb5d61bd3d7877a5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: C. elegans Life Cycle
 uid: fb5d61bd-3d78-77a5-19da-28e78c8ef8fd
 ---
 This resource contains information regarding C. elegans anatomy.
-

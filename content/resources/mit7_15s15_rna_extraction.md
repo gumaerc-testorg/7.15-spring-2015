@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/c19d1258b78ebfb3
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: RNA Extraction
 uid: c19d1258-b78e-bfb3-a922-da0485bcee27
 ---
 This resource contains information regarding RNA extraction.
-

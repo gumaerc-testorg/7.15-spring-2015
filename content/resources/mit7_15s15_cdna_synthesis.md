@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/055f32c70dd28ba4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cDNA Synthesis
 uid: 055f32c7-0dd2-8ba4-17ba-993938aff3f0
 ---
 This resource contains information regarding cDNA synthesis.
-

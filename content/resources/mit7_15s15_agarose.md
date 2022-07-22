@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/8cdeb8521c76bfd9
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Agarose Gel Electrophoresis
 uid: 8cdeb852-1c76-bfd9-2e55-75959fbe15af
 ---
 This resource contains information regarding Agarose gel electrophoresis.
-

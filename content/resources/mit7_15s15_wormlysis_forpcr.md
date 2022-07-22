@@ -6,6 +6,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/ba66f03a69fa3977
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Making C. elegans Lysates for PCR
 uid: ba66f03a-69fa-3977-56b1-c304d0c636d1
 ---
 This resource contains information regarding making C. elegans lysates for PCR.
-

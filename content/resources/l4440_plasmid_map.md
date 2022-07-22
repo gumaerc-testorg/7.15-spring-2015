@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: L4440_plasmid_map.jpg
 uid: bd7a5207-e852-1cde-839d-21e00b5b0471
 ---
 This special file contains information regarding plasmid map.
-

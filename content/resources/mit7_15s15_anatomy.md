@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/fc599e2eb6596b49
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: C. elegans hermaphrodite and male
 uid: fc599e2e-b659-6b49-629d-e955f4f6a5ea
 ---
 This resource contains information regarding C. elegans life cycle.
-

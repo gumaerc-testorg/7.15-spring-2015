@@ -5,6 +5,7 @@ file: /courses/7-15-experimental-molecular-genetics-spring-2015/08d9388d7043ea09
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Reverse Genetics and RNAi
 uid: 08d9388d-7043-ea09-4297-b1b3bfb26821
 ---
 This resource contains information regarding reverse genetics and RNAi.
-
