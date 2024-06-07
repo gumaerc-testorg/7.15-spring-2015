@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding RNA extraction.
 file: /courses/7-15-experimental-molecular-genetics-spring-2015/c19d1258b78ebfb3a922da0485bcee27_MIT7_15S15_RNA_extraction.pdf
+file_size: 179646
 file_type: application/pdf
 learning_resource_types:
 - Labs
