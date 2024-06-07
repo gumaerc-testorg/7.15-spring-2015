@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding synchronization of C. elegans.
 file: /courses/7-15-experimental-molecular-genetics-spring-2015/c4cb8b1556ac80b5d2e3599c65b5d1c4_MIT7_15S15_Synchronization.pdf
+file_size: 161484
 file_type: application/pdf
 learning_resource_types:
 - Labs
