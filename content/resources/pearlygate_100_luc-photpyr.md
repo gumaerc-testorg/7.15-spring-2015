@@ -2,6 +2,7 @@
 content_type: resource
 description: This special file contains information regarding pearlygate 100.
 file: /courses/7-15-experimental-molecular-genetics-spring-2015/ee126348440f568f7ab90cc90fc59504_pEarlyGate_100_Luc-PhotPyr.ape
+file_size: 37017
 file_type: audio/x-ape
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

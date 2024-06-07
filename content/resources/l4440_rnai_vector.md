@@ -2,6 +2,7 @@
 content_type: resource
 description: This special file contains information regarding vector.
 file: /courses/7-15-experimental-molecular-genetics-spring-2015/c097c5e5f3c7a49aea0cc5e49b939f17_L4440_RNAi_vector.ape
+file_size: 6210
 file_type: audio/x-ape
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

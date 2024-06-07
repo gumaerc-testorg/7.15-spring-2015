@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding molecular cloning using
   Gibson assembly method.
 file: /courses/7-15-experimental-molecular-genetics-spring-2015/857fcd5fb6b6b392ab478e8167337b8f_MIT7_15S15_Molecular.pdf
+file_size: 1060872
 file_type: application/pdf
 learning_resource_types:
 - Labs
