@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding making bacterial glycerol
   stocks.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/daa5608cdcd0097051d3ca20ffb860ca_MIT7_15S15_MakingBacterial.pdf
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/daa5608cdcd0097051d3ca20ffb860ca_MIT7_15S15_MakingBacterial.pdf
 file_size: 141237
 file_type: application/pdf
 learning_resource_types:
