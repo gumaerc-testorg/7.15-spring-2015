@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding phis8-4.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/e69854a8cf2e01baefc7a3844bcda3e7_pHIS8-4_Luciferase.gb
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/e69854a8cf2e01baefc7a3844bcda3e7_pHIS8-4_Luciferase.gb
 file_size: 15882
 file_type: application/x-gameboy-rom
 learning_resource_types: []
