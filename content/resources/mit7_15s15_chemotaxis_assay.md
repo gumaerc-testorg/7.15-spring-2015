@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Chemotaxis Assay.
-file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/38c134212c536d7dfd33ab509430a09d_MIT7_15S15_Chemotaxis_assay.pdf
+file: /courses/7-15-experimental-molecular-genetics-spring-2015/38c134212c536d7dfd33ab509430a09d_MIT7_15S15_Chemotaxis_assay.pdf
 file_size: 713191
 file_type: application/pdf
 learning_resource_types:

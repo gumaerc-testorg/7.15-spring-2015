@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding C. elegans life cycle.
-file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/fc599e2eb6596b49629de955f4f6a5ea_MIT7_15S15_anatomy.pdf
+file: /courses/7-15-experimental-molecular-genetics-spring-2015/fc599e2eb6596b49629de955f4f6a5ea_MIT7_15S15_anatomy.pdf
 file_size: 203869
 file_type: application/pdf
 learning_resource_types:

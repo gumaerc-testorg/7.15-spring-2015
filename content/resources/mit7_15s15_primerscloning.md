@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding primers for GFP and luciferase
   cloning.
-file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/6f9fb72b6ea93262c1e2987888c3893a_MIT7_15S15_Primerscloning.pdf
+file: /courses/7-15-experimental-molecular-genetics-spring-2015/6f9fb72b6ea93262c1e2987888c3893a_MIT7_15S15_Primerscloning.pdf
 file_size: 269175
 file_type: application/pdf
 learning_resource_types: []
