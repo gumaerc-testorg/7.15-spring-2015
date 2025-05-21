@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding plasmid map.
-file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/bd7a5207e8521cde839d21e00b5b0471_L4440_plasmid_map.jpg
+file: /courses/7-15-experimental-molecular-genetics-spring-2015/bd7a5207e8521cde839d21e00b5b0471_L4440_plasmid_map.jpg
 file_size: 262097
 file_type: image/jpeg
 image_metadata:
