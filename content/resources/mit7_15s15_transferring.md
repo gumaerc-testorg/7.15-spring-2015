@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information regarding transferring worms grown
   on NGM plates.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/b83d85bed485717390c29ec683cb9b2a_MIT7_15S15_Transferring.pdf
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/b83d85bed485717390c29ec683cb9b2a_MIT7_15S15_Transferring.pdf
 file_size: 183361
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

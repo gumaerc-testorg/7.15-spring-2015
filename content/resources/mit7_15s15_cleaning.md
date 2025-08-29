@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information regarding cleaning contaminated worm
   stocks.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/9819abf81f699ceeff205d01e3e4ff79_MIT7_15S15_Cleaning.pdf
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/9819abf81f699ceeff205d01e3e4ff79_MIT7_15S15_Cleaning.pdf
 file_size: 168470
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
