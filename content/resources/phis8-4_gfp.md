@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding phis8-4 gfp.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/b8e38c288cb98ead25ec8f5ed5413ff8_pHIS8-4_GFP.gb
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/b8e38c288cb98ead25ec8f5ed5413ff8_pHIS8-4_GFP.gb
 file_size: 13340
 file_type: application/x-gameboy-rom
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This special file contains information regarding pearlygate_100_luc.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/2db311fea1b84e832022a275611dcc2d_pEarlyGate_100_Luc-PhotPyr.gb
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/2db311fea1b84e832022a275611dcc2d_pEarlyGate_100_Luc-PhotPyr.gb
 file_size: 14866
 file_type: application/x-gameboy-rom
 learning_resource_types: []

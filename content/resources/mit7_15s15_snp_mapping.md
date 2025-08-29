@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information regarding genetic linkage and SNP
   mapping.
-file: /courses/7-15-experimental-molecular-genetics-spring-2015/080f2cc92921c45dded5a3bcd56f0491_MIT7_15S15_SNP_mapping.pdf
+file: /ol-ocw-studio-app/courses/7-15-experimental-molecular-genetics-spring-2015/080f2cc92921c45dded5a3bcd56f0491_MIT7_15S15_SNP_mapping.pdf
 file_size: 960648
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
