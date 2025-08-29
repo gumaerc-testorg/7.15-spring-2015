@@ -3,7 +3,7 @@ content_type: page
 description: This section contains protocols and descriptions of the laboratory experiments
   for this course, as well as background information.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 8a9d0dfe-ed4b-68b4-d111-c90332844534
